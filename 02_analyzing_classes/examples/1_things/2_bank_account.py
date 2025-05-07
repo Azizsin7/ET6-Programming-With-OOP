@@ -17,7 +17,7 @@ class BankAccount:
         CONSTRUCTION (INITIALIZATION):
         - owner: comes directly from owner_name parameter
         - balance: comes from initial_balance parameter (defaults to 0.0)
-        - transaction_history: starts as an empty list
+        - transaction_history: hardcoded as an empty list
         - account_number: derived from owner_name using a calculation
         - is_active: hardcoded to True for all new accounts
         
