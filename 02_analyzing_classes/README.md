@@ -1,5 +1,7 @@
 # Analyzing Classes
 
+> _Suggested Study:  [Programming Paradigms 101 from edXtras](https://github.com/MIT-Emerging-Talent/ET6-edXtras)_
+
 Explore the connections between a _class declaration_ and how _class instances_ are used in a program with these aspects:
 
 1. **State (Properties)**
